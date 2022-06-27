@@ -2,6 +2,6 @@ package myapp;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("App-master");
+        System.out.println("App-master+feature2");
     }
 }
