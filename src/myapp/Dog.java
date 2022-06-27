@@ -1,7 +1,7 @@
 package myapp;
 
-public class Cat {
+public class Dog {
     public static void main(String[] args) {
-        System.out.println("Cat Class v.2");
+        System.out.println("Dog Class");
     }
 }
